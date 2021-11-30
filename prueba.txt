@@ -1,1 +1,2 @@
 Este es un archivo creado desde la pagina de github
+Esta otra linea la agregué en mi computadora.
